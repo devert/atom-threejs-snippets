@@ -1,0 +1,4 @@
+'.source.threejs':
+  'Scene':
+    'prefix': 'threesc'
+    'body': 'THREE.Scene();'
