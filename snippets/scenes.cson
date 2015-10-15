@@ -7,7 +7,7 @@
   'THREE.Fog':
     'prefix': 'fog'
     'body': 'new THREE.Fog(${1:color}, ${2:near}, ${3:far})'
-    
+
   'THREE.FogExp2':
     'prefix': 'fogexp2'
     'body': 'new THREE.Fog(${1:color}, ${2:density})'
