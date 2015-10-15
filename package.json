@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/devert/atom-threejs-snippets/issues"
   },
-  "dependencies": {}
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.0"
+  }
 }
