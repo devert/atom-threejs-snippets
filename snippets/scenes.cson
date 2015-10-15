@@ -1,0 +1,10 @@
+'.source.js':
+  'THREE.Scene':
+    'prefix': 'scene'
+    'body': 'new THREE.Scene();'
+  'THREE.Fog':
+    'prefix': 'fog'
+    'body': 'new THREE.Fog(${1:0xffffff}, ${2:1}, ${3:1000});'
+  'THREE.FogExp2':
+    'prefix': 'fogexp2'
+    'body': 'new THREE.Fog(${1:0xffffff}, ${2:0.00025});'

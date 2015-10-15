@@ -1,4 +1,0 @@
-'.source.js':
-  'THREE.Scene':
-    'prefix': 'scene'
-    'body': 'THREE.Scene();'
