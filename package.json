@@ -3,6 +3,12 @@
   "name": "atom-threejs-snippets",
   "version": "0.0.3",
   "description": "three.js snippets for Atom editor",
+  "keywords": [
+    "threejs",
+    "three.js",
+    "javascript",
+    "snippets"
+  ],
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
