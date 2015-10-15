@@ -1,7 +1,7 @@
 {
   "author": "Dennis Evert",
   "name": "atom-threejs-snippets",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "three.js snippets for Atom editor",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
