@@ -17,6 +17,9 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "gulp": "^3.9.0"
+    "gulp": "^3.9.0",
+    "gulp-conventional-changelog": "^0.7.0",
+    "gulp-load-plugins": "^1.0.0",
+    "gulp-task-listing": "^1.0.1"
   }
 }
