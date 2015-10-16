@@ -1,8 +1,8 @@
 '.source.js':
 
-  'THREE.Animation'
+  'THREE.Animation':
     'prefix': 'animation'
-    'body': 'new THREE.Animation(root, name)'
+    'body': 'new THREE.Animation(${1:root}, ${2:name})'
 
   'THREE.AnimationAction':
     'prefix': 'animaction'
