@@ -12,6 +12,10 @@
     'prefix': 'hemispherelight'
     'body': 'new THREE.HemisphereLight(${1:skyColorHex}, ${2:groundColorHex}, ${3:intensity})'
 
+  'THREE.LightShadow':
+    'prefix': 'lightshadow'
+    'body': 'new THREE.LightShadow(${1:camera})'
+
   'THREE.PointLight':
     'prefix': 'pointlight'
     'body': 'new THREE.DirectionalLight(${1:hex}, ${2:intensity}, ${3:distance}, ${4:decay})'
