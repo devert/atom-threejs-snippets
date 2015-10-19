@@ -19,7 +19,7 @@ gulp.task('changelog', function () {
   return gulp
       .src('CHANGELOG.md', {buffer: false})
       .pipe($.conventionalChangelog({
-        preset: 'atom'
+        preset: 'angular'
       }))
       .pipe(gulp.dest('./'));
 });

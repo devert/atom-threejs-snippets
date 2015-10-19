@@ -1,7 +1,7 @@
 {
   "author": "Dennis Evert",
-  "name": "atom-threejs-snippets",
-  "version": "0.0.3",
+  "name": "threejs-snippets",
+  "version": "0.0.6",
   "description": "three.js snippets for Atom editor",
   "keywords": [
     "threejs",
@@ -21,8 +21,12 @@
   "bugs": {
     "url": "https://github.com/devert/atom-threejs-snippets/issues"
   },
+  "czConfig": {
+    "path": "node_modules/cz-conventional-changelog"
+  },
   "dependencies": {},
   "devDependencies": {
+    "cz-conventional-changelog": "^1.1.4",
     "gulp": "^3.9.0",
     "gulp-bump": "^1.0.0",
     "gulp-conventional-changelog": "^0.7.0",
