@@ -26,6 +26,7 @@
   },
   "dependencies": {},
   "devDependencies": {
+    "commitizen": "^2.1.0",
     "cz-conventional-changelog": "^1.1.4",
     "gulp": "^3.9.0",
     "gulp-bump": "^1.0.0",
