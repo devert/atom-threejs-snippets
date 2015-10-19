@@ -1,3 +1,18 @@
+<a name="0.0.7"></a>
+## [0.0.7](https://github.com/devert/atom-threejs-snippets/compare/v0.0.6...v0.0.7) (2015-10-19)
+
+
+### Features
+
+* **materials.cson:** Add initial Material snippets ([45c9746](https://github.com/devert/atom-threejs-snippets/commit/45c9746))
+* **math.cson:** Add math snippets ([c666c83](https://github.com/devert/atom-threejs-snippets/commit/c666c83))
+* **objects.cson:** Add object snippets ([355c7fd](https://github.com/devert/atom-threejs-snippets/commit/355c7fd))
+* **package.json:** Add commitizen as a dev depedency ([6571809](https://github.com/devert/atom-threejs-snippets/commit/6571809))
+* **renderers.cson:** Add renderers snippets ([8b75a0e](https://github.com/devert/atom-threejs-snippets/commit/8b75a0e))
+* **textures.cson:** add texture snippets ([d043c50](https://github.com/devert/atom-threejs-snippets/commit/d043c50))
+
+
+
 <a name="0.0.6"></a>
 ## [0.0.6](https://github.com/devert/atom-threejs-snippets/compare/v0.0.5...v0.0.6) (2015-10-16)
 * README fixes and additions
